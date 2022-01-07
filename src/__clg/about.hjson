@@ -1,0 +1,10 @@
+{
+    "Description": '''
+Collegicoin masternode'''
+    Links: [
+        { 
+            website: "https://collegicoin.com/",
+            explorer: "https://explorer.collegicoin.com/"
+        }
+    ]
+}
